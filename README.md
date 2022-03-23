@@ -1,4 +1,4 @@
-# Microppython ADC
+# Micropython ADC
 Alumno: Valentín J.D. Monzón
 
 Curso: 7mo 1ra
