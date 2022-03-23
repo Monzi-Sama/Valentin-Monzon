@@ -1,2 +1,5 @@
-# Valentin-Monzon
-Soy Valentín Monzón. 18 años, soltero, estudiante, etc.
+#Microppython ADC
+Alumno: Valentín J.D. Monzón
+Curso: 7mo 1ra
+Materia: Representacion Visual y Frontal de Datos
+https://wokwi.com/projects/326950942240932436
